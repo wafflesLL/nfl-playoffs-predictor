@@ -1,1 +1,1 @@
-# nfl-winner-predictor
+# nfl-playoffs-predictor
