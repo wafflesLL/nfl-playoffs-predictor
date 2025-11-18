@@ -1,0 +1,63 @@
+{
+  "model": "Logistic Regression (L2)",
+  "metrics": {
+    "train_accuracy": 0.9346590909090909,
+    "test_accuracy": 0.953125,
+    "precision": 1.0,
+    "recall": 0.875,
+    "f1_score": 0.9333333333333333,
+    "roc_auc": 0.9968750000000001
+  },
+  "top_features": [
+    {
+      "Feature": "eff_ratio",
+      "Coefficient": 1.7479600680122933,
+      "Abs_Coefficient": 1.7479600680122933
+    },
+    {
+      "Feature": "off_points_scored",
+      "Coefficient": 1.732527299189455,
+      "Abs_Coefficient": 1.732527299189455
+    },
+    {
+      "Feature": "off_yards_total",
+      "Coefficient": 1.1461853427390232,
+      "Abs_Coefficient": 1.1461853427390232
+    },
+    {
+      "Feature": "off_rushing_yards",
+      "Coefficient": 1.0415495942895248,
+      "Abs_Coefficient": 1.0415495942895248
+    },
+    {
+      "Feature": "off_first_downs_rush",
+      "Coefficient": -0.7111207167702247,
+      "Abs_Coefficient": 0.7111207167702247
+    },
+    {
+      "Feature": "turnover_margin",
+      "Coefficient": 0.6786838846486558,
+      "Abs_Coefficient": 0.6786838846486558
+    },
+    {
+      "Feature": "def_points_allowed",
+      "Coefficient": 0.5807462935054761,
+      "Abs_Coefficient": 0.5807462935054761
+    },
+    {
+      "Feature": "off_passing_yards",
+      "Coefficient": 0.4691694526469778,
+      "Abs_Coefficient": 0.4691694526469778
+    },
+    {
+      "Feature": "off_pass_touchdowns",
+      "Coefficient": 0.2689356063122209,
+      "Abs_Coefficient": 0.2689356063122209
+    },
+    {
+      "Feature": "def_interceptions_made",
+      "Coefficient": 0.21667487242713726,
+      "Abs_Coefficient": 0.21667487242713726
+    }
+  ]
+}
